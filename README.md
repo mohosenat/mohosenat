@@ -1,23 +1,49 @@
-# Hi 👋, I'm Mohosenat Jahan
+<p align="center">
+  <img src="mohosenatjahan.jpeg" alt="Mohosenat Jahan GitHub Banner" width="100%" />
+</p>
 
-### 🚀 Aspiring Full-Stack Developer | Building Modern & User-Friendly Web Experiences
+<h1 align="center">Hi 👋, I'm Mohosenat Jahan</h1>
+
+<h3 align="center">
+  🚀 Aspiring Full-Stack Developer | Building Real-World Projects | Exploring React.js & AI
+</h3>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_FACEBOOK_URL">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m an aspiring Full-Stack Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world projects and continuously improving my problem-solving and development skills. Currently, I’m strengthening my skills in JavaScript, TypeScript, and React while exploring modern web technologies and AI.
+I’m an aspiring **Full-Stack Developer** passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world projects and continuously improving my problem-solving and development skills.
+
+Currently, I’m strengthening my skills in **JavaScript, TypeScript, and React.js** while exploring modern web technologies and the possibilities of **AI in web development**.
+
+I believe in learning by building, experimenting with new technologies, and improving through consistent practice.
 
 ---
 
-## 🔭 Currently Working On
+## 🔭 What I'm Currently Doing
 
-* 💻 Building projects to strengthen my web development skills
+* 🚀 Building real-world web development projects
 * ⚛️ Exploring **React.js** and modern frontend development
-* 📘 Improving my **JavaScript & TypeScript** skills
-* 🎨 Creating clean, responsive, and user-friendly web interfaces
-* 🧠 Practicing problem-solving and writing better, cleaner code
-* 🤖 Exploring **AI** and its potential in modern web development
+* 📘 Strengthening my **JavaScript & TypeScript** skills
+* 🎨 Improving responsive and user-friendly UI development
+* 🧠 Practicing problem-solving and logical thinking
+* 🤖 Exploring **AI and its applications in web development**
+* 🌱 Working toward becoming a professional **Full-Stack Developer**
 
 ---
 
@@ -26,70 +52,76 @@ I’m an aspiring Full-Stack Developer passionate about building modern, respons
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML CSS JavaScript TypeScript" />
 </p>
 
 ### ⚛️ Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React.js" />
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Development Environment
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code" />
 </p>
 
 ---
 
-## 📚 What I'm Learning
+## 📚 Currently Learning
 
-* 🚀 Modern Frontend Development
-* ⚛️ React.js
-* 📘 TypeScript
-* 🌐 Full-Stack Web Development
-* 🤖 AI & AI-powered Web Applications
-* 🧩 Problem Solving & Logical Thinking
-* 🎨 Responsive & User-Friendly UI Development
-
----
-
-## 🎯 My Goals
-
-* 🚀 Become a professional Full-Stack Developer
-* ⚛️ Build production-ready React applications
-* 🌐 Develop real-world full-stack web applications
-* 🧠 Strengthen my problem-solving and development skills
-* 🤖 Learn how AI can be integrated into modern web applications
-* 🌱 Continuously learn and improve as a developer
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_FACEBOOK_URL">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react" alt="Currently Learning" />
 </p>
+
+I’m currently focusing on:
+
+* Modern JavaScript development
+* TypeScript
+* React.js
+* Responsive web development
+* Full-Stack development concepts
+* AI-powered web applications
+
+---
+
+## 🚀 My Development Journey
+
+My journey started with the fundamentals of **HTML and CSS**, followed by **JavaScript** and **TypeScript**.
+
+As I continue to grow, I’m focusing more on building practical projects rather than only learning theory. My current goal is to strengthen my frontend development skills with **React.js** and gradually move toward full-stack development.
+
+> **Learn → Build → Improve → Repeat 🔄**
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Become confident with React.js
+* 💻 Build more real-world projects
+* 🧠 Improve problem-solving skills
+* 📚 Strengthen JavaScript & TypeScript fundamentals
+* 🌐 Build a strong professional portfolio
+* 🤖 Explore AI integration in web applications
+* 🔥 Maintain consistency on GitHub
+* 🤝 Collaborate and learn from other developers
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohosenat&show_icons=true&theme=default&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohosenat&layout=compact&theme=default&hide_border=true" height="170" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mohosenat&show_icons=true&hide_border=true&rank_icon=github" 
+    height="170"
+  />
+
+<img 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohosenat&layout=compact&hide_border=true" 
+ height="170"
+/>
+
 </p>
 
 ---
@@ -97,53 +129,87 @@ I’m an aspiring Full-Stack Developer passionate about building modern, respons
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohosenat&theme=default&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com/?user=mohosenat&hide_border=true" 
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohosenat&theme=github-compact&hide_border=true" width="100%" />
+  <img 
+    src="https://raw.githubusercontent.com/mohosenat/mohosenat/output/github-contribution-grid-snake.svg" 
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## ⭐ Featured Projects
 
 ### 🌐 Project One
 
-> A modern and responsive web application built to solve a real-world problem.
+**Short Description:**
+A modern web application designed to provide a responsive, user-friendly, and engaging experience.
 
-**Tech Stack:** HTML • CSS • JavaScript
+**Tech Stack:**
+`HTML` `CSS` `JavaScript`
 
-🔗 [Live Demo](YOUR_PROJECT_LIVE_LINK)
-🔗 [Repository](YOUR_PROJECT_REPOSITORY_LINK)
-
-### 💻 Project Two
-
-> A user-friendly web application focused on modern UI, responsive design, and practical functionality.
-
-**Tech Stack:** JavaScript • TypeScript • React.js
-
-🔗 [Live Demo](YOUR_PROJECT_LIVE_LINK)
-🔗 [Repository](YOUR_PROJECT_REPOSITORY_LINK)
+🔗 **Live Demo:** YOUR_LIVE_LINK
+📂 **Repository:** YOUR_REPOSITORY_LINK
 
 ---
 
-## 💡 My Development Philosophy
+### ⚡ Project Two
 
-> **Learn → Build → Practice → Improve → Repeat 🔄**
+**Short Description:**
+A practical web development project focused on clean UI, responsive design, and real-world functionality.
 
-I believe consistent learning and hands-on practice are the keys to becoming a better developer. Every project gives me an opportunity to learn something new, solve problems, and improve my skills.
+**Tech Stack:**
+`HTML` `CSS` `JavaScript` `TypeScript`
+
+🔗 **Live Demo:** YOUR_LIVE_LINK
+📂 **Repository:** YOUR_REPOSITORY_LINK
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="YOUR_FACEBOOK_URL">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💡 My Philosophy
+
+> **“Consistency beats perfection. Every project is an opportunity to learn, build, and improve.”**
+
+I’m always looking forward to learning new technologies, building meaningful projects, collaborating with developers, and growing as a software developer.
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohosenat&style=flat-square&label=Profile+Views" />
+  <b>Thanks for visiting my profile! 🚀</b>
 </p>
 
 <p align="center">
-  Thanks for visiting my profile! 🚀
+  <i>Keep Learning • Keep Building • Keep Growing</i>
 </p>
