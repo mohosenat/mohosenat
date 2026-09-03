@@ -2,117 +2,149 @@
   <img src="mohosenatjahan.jpeg" alt="Mohosenat Jahan GitHub Banner" width="100%" />
 </p>
 
-# 👋 Hi, I'm Mohosenat Jahan
+<h1 align="center">Hi 👋, I'm Mohosenat Jahan</h1>
 
-### Aspiring Full-Stack Developer | Building Projects & Exploring React.js | Interested in AI
+<h3 align="center">
+  Aspiring Full-Stack Developer | Exploring Modern Web Technologies | Interested in AI
+</h3>
+
+---
+
+## 👩‍💻 About Me
+
+I’m an aspiring Full-Stack Web Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world projects and learning new technologies through hands-on practice.
+
+Currently, I’m focused on strengthening my frontend and backend development skills and improving my problem-solving abilities to become a professional Full-Stack Developer.
+
+---
+
+## 🔭 What I'm Currently Doing
+
+* 🌱 I’m currently learning **JavaScript, TypeScript, React.js and Node.js**
+* 💻 I’m building **responsive and user-friendly web projects**
+* 🚀 I’m exploring **Full-Stack Web Development**
+* 📚 I’m practicing **problem-solving and programming**
+* 🤖 I’m exploring the possibilities of **Artificial Intelligence**
+* 🧠 I’m continuously improving my coding and development skills
+
+---
+
+## 🎯 My Goal
+
+My goal is to become a **professional Full-Stack Web Developer** capable of building scalable, secure, responsive, and user-friendly applications.
+
+I want to gain real-world development experience, work on meaningful projects, learn modern technologies, and continuously grow as a developer.
+
+---
+
+## 🛠️ Languages & Technologies
+
+### 💻 Languages
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mohosenat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
+</p>
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js" width="45" height="45"/>
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
+</p>
+
+### 🔧 Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
 </p>
 
 ---
 
+## 🤝 Connect With Me
 
-## 👨‍💻 About Me
-
-I’m an aspiring Full-Stack Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real-world projects and continuously improving my problem-solving and development skills. Currently, I’m strengthening my skills in JavaScript, TypeScript, and React while exploring modern web technologies and AI.
-
----
-
-## 🚀 What I'm Currently Doing
-
-* 🔨 Building real-world web development projects
-* ⚛️ Exploring **React.js** and modern frontend development
-* 📘 Improving my **JavaScript & TypeScript** skills
-* 🎨 Creating responsive and user-friendly interfaces
-* 🧠 Practicing problem-solving and logical thinking
-* 🤖 Exploring **AI and modern web technologies**
-* 🌱 Working toward becoming a professional **Full-Stack Developer**
-
----
-
-## 🛠️ Tech Stack  
-
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-### **Tools & Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-
----
-
-## 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohosenatjahan/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:mohosenatjahan5@gmail.com)
-
----
-
-## 🎯 My Goals
-
-* 🚀 Become a skilled **Full-Stack Developer**
-* 💻 Build meaningful and real-world applications
-* ⚛️ Become confident with **React.js**
-* 🧠 Improve problem-solving and programming logic
-* 🤖 Learn how AI can be integrated into web applications
-* 🌍 Build a strong developer portfolio
-* 🤝 Collaborate with other developers and contribute to projects
-
----
-
-## 💼 Featured Projects
-
-### 🌐 Project One
-
-> A modern web application built with a focus on responsive design, usability, and clean code.
-
-**Tech Stack:** HTML • CSS • JavaScript
-
-🔗 **Live Demo:** YOUR_LIVE_LINK
-📂 **Repository:** YOUR_REPOSITORY_LINK
-
----
-
-### ⚡ Project Two
-
-> A practical web development project created to strengthen frontend development and problem-solving skills.
-
-**Tech Stack:** HTML • CSS • JavaScript / TypeScript
-
-🔗 **Live Demo:** YOUR_LIVE_LINK
-📂 **Repository:** YOUR_REPOSITORY_LINK
+<p align="left">
+  <a href="mailto:mohosenatjahan5@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="42" height="42"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mohosenatjahan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="42" height="42"/>
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohosenat&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohosenat&layout=compact&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohosenat&show_icons=true&hide_border=true&count_private=true" alt="Mohosenat's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohosenat&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohosenat&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohosenat&hide_border=true" />
-</p>
+### 🍔 Foodora
+
+A modern and responsive food delivery website designed with a clean and user-friendly interface. The project focuses on creating an engaging food ordering experience with modern styling and responsive layouts.
+
+* 🍕 Food and restaurant-focused interface
+* 📱 Responsive design
+* 🎨 Modern and clean UI
+* 🖥️ User-friendly layout
+
+🔗 **Live Demo:** [View Live Website](YOUR_FOODORA_LIVE_LINK)
+
+🔗 **GitHub:** [View Repository](YOUR_FOODORA_GITHUB_LINK)
+
+---
+
+### 🎤 DEVCONF 2026
+
+A modern and responsive developer conference landing page built with HTML5 and CSS3. The website presents conference information, speakers, pricing plans, and a three-day event schedule.
+
+* 🎤 Featured speakers section
+* 💳 Conference pricing plans
+* 📅 Three-day conference schedule
+* 📱 Responsive design
+* 🎨 Modern and clean UI
+
+🔗 **Live Demo:** [View Live Website](YOUR_DEVCONF_LIVE_LINK)
+
+🔗 **GitHub:** [View Repository](https://github.com/mohosenat/b14-a1)
 
 ---
 
 <p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Keep Learning. Keep Building. Keep Growing. 🚀**
-
+  ⭐ Thanks for visiting my profile!
 </p>
+
+<p align="center">
+  <i>Keep Learning • Keep Building • Keep Growing 🚀</i>
+</p>
+
