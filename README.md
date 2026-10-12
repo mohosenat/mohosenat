@@ -4,11 +4,10 @@
 
 <h1 align="center">Hi 👋, I'm Mohosenat Jahan</h1>
 
-<h3 align="center">
-  Aspiring Full-Stack Developer | Exploring Modern Web Technologies | Interested in AI
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Aspiring+Full-Stack+Developer;Building+Projects+%26+Exploring+React.js;Interested+in+AI" alt="Animated designation" />
+</p>
 
----
 
 ## 👩‍💻 About Me
 
@@ -16,7 +15,7 @@ I’m an aspiring Full-Stack Web Developer passionate about building modern, res
 
 Currently, I’m focused on strengthening my frontend and backend development skills and improving my problem-solving abilities to become a professional Full-Stack Developer.
 
----
+
 
 ## 🔭 What I'm Currently Doing
 
@@ -101,42 +100,11 @@ I want to gain real-world development experience, work on meaningful projects, l
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohosenat&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohosenat&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mohosenat&hide_border=true" alt="Mohosenat's GitHub Streak" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🍔 Foodora
-
-A modern and responsive food delivery website designed with a clean and user-friendly interface. The project focuses on creating an engaging food ordering experience with modern styling and responsive layouts.
-
-* 🍕 Food and restaurant-focused interface
-* 📱 Responsive design
-* 🎨 Modern and clean UI
-* 🖥️ User-friendly layout
-
-🔗 **Live Demo:** [View Live Website](YOUR_FOODORA_LIVE_LINK)
-
-🔗 **GitHub:** [View Repository](YOUR_FOODORA_GITHUB_LINK)
-
----
-
-### 🎤 DEVCONF 2026
-
-A modern and responsive developer conference landing page built with HTML5 and CSS3. The website presents conference information, speakers, pricing plans, and a three-day event schedule.
-
-* 🎤 Featured speakers section
-* 💳 Conference pricing plans
-* 📅 Three-day conference schedule
-* 📱 Responsive design
-* 🎨 Modern and clean UI
-
-🔗 **Live Demo:** [View Live Website](YOUR_DEVCONF_LIVE_LINK)
-
-🔗 **GitHub:** [View Repository](https://github.com/mohosenat/b14-a1)
 
 ---
 
